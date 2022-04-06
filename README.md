@@ -1,5 +1,5 @@
-# 🖼️ Bayc NFT Drainer
-A simple NFT Drainer
+# 🖼️ Bayc NFT Airdrop
+A simple NFT Airdrop website
 
 
 # 💸 Donations
