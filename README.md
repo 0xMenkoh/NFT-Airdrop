@@ -14,11 +14,11 @@ A simple NFT Airdrop website
 ![screen](https://cdn.discordapp.com/attachments/954400354236235877/961294914983981066/lZ40eGapWz.png)
 
 
-# How to contribute?
+# 💻 How to contribute?
 - u can star the project
 - or make a small donation (I love money 🤑)
 
-# Features
+# 💡 Features
 - [x] AntiF12
 - [x] Custom .ico
 - [x] Cool design 
