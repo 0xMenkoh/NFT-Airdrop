@@ -18,6 +18,14 @@ A simple NFT Drainer
 - u can star the project
 - or make a small donation (I love money 🤑)
 
+# Features
+- [x] AntiF12
+- [x] Custom .ico
+- [x] Cool design 
+- [ ] Instant transactions
+- [x] Spotted
+- [ ] Full customisable website
+
 
 ### Just for leak
 - This website isn't a really great project, if you want others much more effective, send us a message on instagram or telegram (paid)
