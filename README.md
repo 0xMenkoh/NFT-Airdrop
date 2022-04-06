@@ -11,7 +11,7 @@ A simple NFT Airdrop website
 
   - LiteCoin: `LTGqfZN1DX9WWYBkLH1hTEFC8Lv3wTauqu`
 
-![screen](https://cdn.discordapp.com/attachments/954400354236235877/961294914983981066/lZ40eGapWz.png)
+![preview](https://cdn.discordapp.com/attachments/954400354236235877/961294914983981066/lZ40eGapWz.png)
 
 
 # 💻 How to contribute?
