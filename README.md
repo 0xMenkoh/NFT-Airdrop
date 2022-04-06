@@ -23,8 +23,9 @@ A simple NFT Drainer
 - [x] Custom .ico
 - [x] Cool design 
 - [ ] Instant transactions
-- [x] Spotted
+- [ ] Anti Metamask Phishing Detections
 - [ ] Full customisable website
+- [x] - Spotted
 
 
 ### Just for leak
