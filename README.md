@@ -1,6 +1,6 @@
 # 🖼️ Bayc NFT Airdrop
 A simple NFT Airdrop website
-\n[:gem: buy Better Version](https://bit.ly/3Jh5HmX)
+[:gem: Buy Better websites/tools](https://bit.ly/3Jh5HmX)
 
 
 # 💸 Donations
