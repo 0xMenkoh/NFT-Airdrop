@@ -31,5 +31,5 @@ A simple NFT Airdrop website
 ### Just for leak
 - This website isn't a really great project, if you want others much more effective, send us a message on instagram or telegram (paid)
 
-[🌍 Telegram](t.me/nftmontana)
+[🌍 Telegram](https://t.me/nftmontana)
 [:gem: Instagram](https://instagram.com/nftscam_)
