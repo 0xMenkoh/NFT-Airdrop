@@ -1,5 +1,5 @@
 # 🖼️ Bayc NFT Airdrop
-A simple NFT Airdrop website
+> A simple NFT Airdrop website
 [:gem: Buy Better websites/tools](https://bit.ly/3Jh5HmX)
 this program is under MIT license and for Educational Purpose, please credit me.
 
