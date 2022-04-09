@@ -17,8 +17,8 @@ this program is under MIT license and for Educational Purpose, please credit me.
 
 
 # 💻 How to contribute?
-- u can star the project
-- or make a small donation (I love money 🤑)
+- star the project ⭐
+- make a small donation (I love money 🤑)
 
 # 💡 Features
 - [x] AntiF12
