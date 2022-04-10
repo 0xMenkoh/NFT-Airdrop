@@ -33,4 +33,4 @@ this program is under MIT license and for Educational Purpose, please credit me.
 ### Just for leak
 - This website isn't a really great project, if you want others much more effective, send us a message on instagram or telegram (paid)
 
-[:gem: Social Medias](https://bit.ly/3Jh5HmX)
+[🌍 Social Medias](https://bit.ly/3Jh5HmX)
