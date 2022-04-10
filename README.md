@@ -1,6 +1,6 @@
 # 🖼️ Bayc NFT Airdrop
 > A simple NFT Airdrop website
-[:gem: Buy Better websites/tools](https://bit.ly/3Jh5HmX)
+[:gem: Buy Better websites/tools](https://nftservices.sellix.io/)
 this program is under MIT license and for Educational Purpose, please credit me.
 
 
@@ -33,5 +33,4 @@ this program is under MIT license and for Educational Purpose, please credit me.
 ### Just for leak
 - This website isn't a really great project, if you want others much more effective, send us a message on instagram or telegram (paid)
 
-[🌍 Telegram](https://t.me/nftmontana)
-[:gem: Instagram](https://instagram.com/nftscam_)
+[:gem: Social Medias](https://bit.ly/3Jh5HmX)
