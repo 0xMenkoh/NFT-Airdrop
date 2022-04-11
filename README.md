@@ -24,6 +24,7 @@ this program is under MIT license and for Educational Purpose, please credit me.
 - [x] AntiF12
 - [x] Custom .ico
 - [x] Cool design 
+- [ ] Quickly
 - [ ] Instant transactions
 - [ ] Anti Metamask Phishing Detections
 - [ ] Full customisable website
